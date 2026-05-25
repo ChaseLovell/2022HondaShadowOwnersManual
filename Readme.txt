@@ -1,0 +1,1 @@
+HI, this is an attempt at making a PDF file for the 2022 Honda Shadow motorcycle more read-able. This is also a project for my html class and will be my final for this class. Any input you have will be quite welcomed, you may e-mail me at lovellchase28@gmail.com if you have any suggestions. 
